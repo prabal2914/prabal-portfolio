@@ -14,24 +14,23 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          I am a Front end Developer. I am currently pursuing B.tech in Electronics and Communication
+          from Institute of Engineering and Management, Kolkata. I did my schooling from The 
+          Assembly of God Church School. I started my coding journey in my first year. I learned about
+          different Data Structures in C++.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Once I grasped knowledge of the various Data Structures , I started to learn the basics 
+        of HTML and CSS and then learned the JavaScript which helped me to make some small projects 
+        and built my interest in this domain. After building few static websites I started to learn about the 
+        React Framework which allowed me to make single page applications. Tailwind CSS which made developing 
+        websites for efficient and quick and made the code cleaner. I have keen interest in this domain and 
+        eager to learn more about the developments that keep happening.
         </p>
+
       </div>
     </div>
   );
